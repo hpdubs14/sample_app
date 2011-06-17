@@ -17,4 +17,6 @@ group :test do
   gem 'autotest-growl', '0.2.9'
   gem 'rake' ,'0.8.7'
   gem 'spork', '0.9.0.rc5'
+  gem 'factory_girl_rails'
+  gem 'factory_girl'
 end
