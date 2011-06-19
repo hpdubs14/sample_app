@@ -20,4 +20,5 @@ group :test do
   gem 'spork', '0.9.0.rc5'
   gem 'factory_girl_rails'
   gem 'factory_girl'
+  gem 'railroady'
 end
